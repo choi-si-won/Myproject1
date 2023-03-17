@@ -30,3 +30,6 @@ print(a, ' * ', b, ' = ', res3)
 
 res4 = div_func(a, b)
 print(a, ' / ', b, ' = ', res4)
+
+
+add apink;
